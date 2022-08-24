@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/syed-reehan-siddiq-06591920a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="http://instagram.com/_reehansyed?utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://leetcode.com/Reehan998/">
