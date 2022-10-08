@@ -1,6 +1,6 @@
 <h2>Bonjour , Nice to see you<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 <hr>
-<h3>Welcome to my page<br>My name is Reehan, currently living in India and I'm currently learning Web Development</h3>
+<h3>Welcome to my page<br>My name is Reehan, currently living in India</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
