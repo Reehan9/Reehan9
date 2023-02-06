@@ -29,9 +29,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" alt="C++" width="65" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="40" height="40"/><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1920px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="VScode" width="40" height="40"/>
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="40" height="40"/><br>
   <br>
-  <strong>I'm looking for open source contributions.</strong>
+  <h4> <strong>I'm looking for open source contributions.</strong></h4>
 
 
 
