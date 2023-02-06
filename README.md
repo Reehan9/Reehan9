@@ -31,7 +31,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="40" height="40"/><br>
   
-  <bold>I'm looking for open source contributions.</bold>
+  <strong>I'm looking for open source contributions.</strong>
 
 
 
