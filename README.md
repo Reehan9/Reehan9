@@ -31,6 +31,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1920px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="VScode" width="40" height="40"/>
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="40" height="40"/><br>
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ffa%2FMicrosoft_Azure.svg%2F1200px-Microsoft_Azure.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMicrosoft_Azure&tbnid=LAiyFn8GVa21tM&vet=12ahUKEwjv3aHq4K79AhXT6HMBHeppAUQQMygAegUIARDfAQ..i&docid=W13sNpdR84rSsM&w=1200&h=1200&q=Picture%20of%20azure&client=safari&ved=2ahUKEwjv3aHq4K79AhXT6HMBHeppAUQQMygAegUIARDfAQ" title="JavaScript" alt="Azure" width="40" height="40"/>&nbsp;
   <br>
   <h3> <strong>I'm looking for open source contributions.</strong></h3>
 
