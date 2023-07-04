@@ -14,9 +14,6 @@
   <a href="https://leetcode.com/Reehan998/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
   </a>
-    <a href="https://www.hackerrank.com/syedreehan998">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="Hackkerrank Badge"/>
-  </a>
 </div>
 <div>
 <strong><h2>Languages and tools</h2></strong>
