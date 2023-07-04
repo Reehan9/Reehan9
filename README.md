@@ -15,6 +15,9 @@
   <a href="https://leetcode.com/Reehan998/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
   </a>
+    <a href="https://twitter.com/__reehan?s=21&t=5Hup5V6YRSVo4xj6jUIIvQ">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=#d16c06" alt="Leetcode Badge"/>
+  </a>
 </div>
 <div>
 <strong><h2>Languages and tools</h2></strong>
