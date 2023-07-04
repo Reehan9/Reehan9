@@ -2,7 +2,7 @@
 <hr>
 <h3>Welcome to my page<br>My name is Reehan, currently living in India</h3>
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240885342-127d79d7-e59d-4aa8-bd18-63b89c666d95.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/240885342-127d79d7-e59d-4aa8-bd18-63b89c666d95.gif" width="500"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/syed-reehan-siddiq-06591920a">
