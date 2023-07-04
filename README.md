@@ -1,5 +1,5 @@
 <h2>Bonjour , Nice to see you<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
-<hr>
+<br>
 <h3>Welcome to my page<br>My name is Reehan, currently living in India</h3>
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240885342-127d79d7-e59d-4aa8-bd18-63b89c666d95.gif" width="700"/>
