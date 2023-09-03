@@ -12,7 +12,7 @@
   <a href="http://instagram.com/_reehansyed?utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://leetcode.com/Reehan998/">
+  <a href="https://leetcode.com/Reehan9/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
   </a>
     <a href="https://twitter.com/__reehan?s=21&t=5Hup5V6YRSVo4xj6jUIIvQ">
